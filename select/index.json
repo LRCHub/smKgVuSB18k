@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Payphone",
+  "base_artist": "Maroon 5",
+  "createdAt": "2026-03-04T09:46:52.974249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bright Neon Payphone",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/01_Bright_Neon_Payphone_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Payphone_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Payphone (The Others remix)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/03_Payphone_(The_Others_remix)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/04_Payphone_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Payphone - Edit",
+      "artist": "Maroon 5 feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/05_Payphone_-_Edit_Maroon_5_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Maroon 5/Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/06_Payphone_Maroon_5_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Payphone (Acoustic Version)",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/07_Payphone_(Acoustic_Version)_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Maroon 5, Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/08_Payphone_Maroon_5,_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Fly By Nightcore",
+      "has_synced": false,
+      "path": "select/09_Payphone_Fly_By_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Payphone (Feat. Wiz Khalifa)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/10_Payphone_(Feat._Wiz_Khalifa)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Payphone - Cutmore Remix",
+      "artist": "Maroon 5 feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/11_Payphone_-_Cutmore_Remix_Maroon_5_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Payphone (feat. Wiz Khalifa) [Cutmore Remix]",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/12_Payphone_(feat._Wiz_Khalifa)_[Cutmore_Remix]_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Payphone (feat. Wiz Khalifa)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/13_Payphone_(feat._Wiz_Khalifa)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/14_Payphone_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Crown the Empire",
+      "has_synced": true,
+      "path": "select/15_Payphone_Crown_the_Empire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Crown the Empire",
+      "has_synced": true,
+      "path": "select/16_Payphone_Crown_the_Empire.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Payphone",
+      "artist": "Maroon 5 feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/17_Payphone_Maroon_5_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Payphone (feat. Wiz Khalifa)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/18_Payphone_(feat._Wiz_Khalifa)_Maroon_5.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Payphone",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_Payphone_Maroon_5.txt"
+    }
+  ]
+}
